@@ -66,4 +66,4 @@ The design choices aim to reflect realistic constraints of concurrent systems.
 ---
 
 ## Informations
-For more informations read the appropriate document [Consegna progetto](Consegna%progetto.pdf).
+For more informations read the appropriate document [Consegna progetto](Consegna_progetto.pdf).
